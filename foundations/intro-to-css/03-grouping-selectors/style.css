@@ -1,0 +1,15 @@
+.glass {
+    background-color: black;
+    color: white;
+}
+
+.crown {
+    background-color: yellow;
+    color: black;
+}
+
+.glass, 
+.crown {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
