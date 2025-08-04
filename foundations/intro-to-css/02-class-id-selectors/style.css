@@ -1,0 +1,21 @@
+p {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.Fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Third {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+.Second {
+    color:blue;
+    font-size:36px;
+}
